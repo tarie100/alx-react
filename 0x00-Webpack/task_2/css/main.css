@@ -1,0 +1,17 @@
+/* main.css */
+
+/* Reset default margin and padding for the <main> element */
+main {
+    margin: 0;
+    padding: 5px;
+    background-color: lightgray;
+  }
+  
+  /* Add your additional styles here */
+  /* For example, you can target specific elements like headings, paragraphs, etc. */
+  /* Example: */
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
